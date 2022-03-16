@@ -7,8 +7,7 @@ A python gui program for check ip location details
 **Packages/Modules:** Tkinter , ip2geotools ,  request , urllib
 
 ## To run and test
-  . clone or download this project
-  . run gui.py
+clone or download this project then run gui.py
 
 
 ## Screenshots
