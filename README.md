@@ -12,7 +12,7 @@ clone or download this project then run gui.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/amirkho-py/ip2geo/blob/main/Screen Shot 2022-03-16 at 19.45.26.png)
 
 
 
